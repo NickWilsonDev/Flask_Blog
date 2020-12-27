@@ -1,1 +1,2 @@
 flask_blog_environment/*
+__pycache__/*
