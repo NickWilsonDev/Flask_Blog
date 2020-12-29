@@ -5,6 +5,7 @@
 - *deactivate*  ends Python virtual environment
 
 ## Initial Setup
+- python3 -m venv env    -- initial installation/setup of python virtual environment
 - export FLASK_APP=app
 - export FLASK_ENV=development
 
