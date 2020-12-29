@@ -1,5 +1,10 @@
 # Flask_Blog
 
+## Description
+A simple 'CRUD' application using Flask. Basically followed this tutorial.
+https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+
+
 ## Helpful commands
 - *source <environment directory>/bin/activate*   Starts Python virtual envrironment
 - *deactivate*  ends Python virtual environment
