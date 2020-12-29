@@ -11,3 +11,4 @@
 
 ## To Run - at least locally
 - flask run
+- Navigate to this address in browser *http://127.0.0.1:5000/*
